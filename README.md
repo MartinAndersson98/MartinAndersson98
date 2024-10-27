@@ -8,8 +8,7 @@ I'm an MSc student studying Software Engineering & Technologies at Chalmers Univ
 
 * 🌍  I'm based in Gothenburg
 * ✉️  You can contact me at [martin.vg.andersson@gmail.com](mailto:martin.vg.andersson@gmail.com)
-* 🚀  My master thesis [Dynamic Mission Re-planning with Human Involvement in Autonomous Sys-
-tems](http://www.chalmers.se/en/education/your-studies/masters-and-bachelors-thesis/master-thesis/)
+* 🚀  My master thesis [Dynamic Mission Re-planning with Human Involvement in Autonomous Systems](http://www.chalmers.se/en/education/your-studies/masters-and-bachelors-thesis/master-thesis/)
 * 🧠  I'm learning PDDL, Unity AR
 * ⚡  I've recently started diving into sim racing for some high-speed, tech-fueled fun!
 
